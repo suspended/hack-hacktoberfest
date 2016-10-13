@@ -13,4 +13,3 @@ Add your username here!!
 - realslimshanky
 - sidgupta234
 - yrahul3910
-- mridulg
