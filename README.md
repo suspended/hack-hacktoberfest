@@ -24,3 +24,4 @@ Add your username here!!
 - manuelmdn
 - lilyholcombe
 - mateusduraes
+- rrichajalota
