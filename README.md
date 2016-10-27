@@ -4,6 +4,7 @@ Need pull requests? Start here!
 Add your username here!!
 
 - [gezafisch](https://github.com/gezafisch)
+- [ashutosh1206] (https://github.com/ashutosh1206)
 - [MAGICCC](https://github.com/MAGICCC)
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [obsidianspork](https://github.com/obsidianspork)
