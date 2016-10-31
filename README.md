@@ -41,6 +41,7 @@ Thanks!
 - [anubhakushwaha](https://github.com/anubhakushwaha)
 - [arpitgogia](https://github.com/arpitgogia)
 - [beadleha](https://github.com/beadleha)
+- [chaosdefinition](https://github.com/chaosdefinition)
 - [asr21](https://github.com/asr21)
 - [sarsiz](https://github.com/sarsiz)
 - [vaibsharma](https://github.com/vaibsharma)
