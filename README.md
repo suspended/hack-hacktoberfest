@@ -49,6 +49,7 @@ Thanks!
 - [asr21](https://github.com/asr21)
 - [sarsiz](https://github.com/sarsiz)
 - [vaibsharma](https://github.com/vaibsharma)
+- [SpencerSchrock](https://github.com/SpencerSchrock)
 - [sksameer](https://github.com/sksameer)
 - [guptarohit](https://github.com/guptarohit)
 - [fifiteen82726](https://github.com/fifiteen82726)
