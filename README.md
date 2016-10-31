@@ -24,6 +24,7 @@ Thanks!
 - [sidharthssingh](https://github.com/sidharthssingh)
 - [YoYoHoneySinghhh](https://github.com/YoYoHoneySinghhh)
 - [xRahul](https://github.com/xRahul)
+- [warrickhill](https://github.com/warrickhill)
 - [SilentFlame](https://github.com/SilentFlame)
 - [darkwizz](https://github.com/darkwizz)
 - [joycedfan](https://github.com/joycedfan)
