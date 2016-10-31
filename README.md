@@ -47,6 +47,7 @@ Thanks!
 - [sksameer](https://github.com/sksameer)
 - [guptarohit](https://github.com/guptarohit)
 - [fifiteen82726](https://github.com/fifiteen82726)
+- [alexspyr](https://github.com/alexspyr)
 - [paulolimac](https://github.com/paulolimac)
 - [CodeWarri0r](https://github.com/CodeWarri0r)
 - [jb-1980](https://github.com/jb-1980)
