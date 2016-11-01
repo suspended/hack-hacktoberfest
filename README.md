@@ -11,6 +11,7 @@ Thanks!
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
+- [kosmastsk](https://github.com/kosmastsk)
 - [shekhar-singh](https://github.com/shekhar-singh)
 - [AdriiiPRodri](https://github.com/AdriiiPRodri)
 - [leesmart92](https://github.com/leesmart92)
