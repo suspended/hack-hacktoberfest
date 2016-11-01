@@ -50,6 +50,7 @@ Thanks!
 - [asr21](https://github.com/asr21)
 - [sarsiz](https://github.com/sarsiz)
 - [vaibsharma](https://github.com/vaibsharma)
+- [stevotennis](https://github.com/stevotennis)
 - [sksameer](https://github.com/sksameer)
 - [guptarohit](https://github.com/guptarohit)
 - [fifiteen82726](https://github.com/fifiteen82726)
