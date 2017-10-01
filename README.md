@@ -21,6 +21,7 @@ Thanks!
 - [yrahul3910](https://github.com/yrahul3910)
 - [nistath](https://github.com/nistath)
 - [jatinrajani](https://github.com/jatinrajani)
+- [ArkTrevelyan](https://github.com/ArkTrevelyan)
 - [Link270](https://github.com/Link270)
 - [codecofee19](https://github.com/codecofee19)
 - [GRANTSWIM4](https://github.com/GRANTSWIM4)
