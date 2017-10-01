@@ -40,6 +40,7 @@ Thanks!
 - [rrichajalota](https://github.com/rrichajalota)
 - [utkarshvermaa](https://github.com/utkarshvermaa)
 - [xvlaze](https://github.com/xvlaze)
+- [MackyNous](https://github.com/mackynous)
 - [sunpech](https://github.com/sunpech)
 - [cpcio](https://github.com/cpcio)
 - [rauenzi](https://github.com/rauenzi)
