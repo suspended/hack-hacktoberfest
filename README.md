@@ -6,6 +6,7 @@ Please insert your username **randomly** in the list to avoid merge conflicts. D
 Thanks!
 
 - [gezafisch](https://github.com/gezafisch)
+- [bsidio](https://github.com/bsidio)
 - [ashutosh1206](https://github.com/ashutosh1206)
 - [MAGICCC](https://github.com/MAGICCC)
 - [TuhinKundu](https://github.com/TuhinKundu)
