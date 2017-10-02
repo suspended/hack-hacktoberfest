@@ -54,6 +54,7 @@ Thanks!
 - [chaosdefinition](https://github.com/chaosdefinition)
 - [asr21](https://github.com/asr21)
 - [sarsiz](https://github.com/sarsiz)
+- [shantanukamath](https://github.com/shantanukamath)
 - [takidelfin](https://github.com/takidelfin)
 - [vaibsharma](https://github.com/vaibsharma)
 - [stevotennis](https://github.com/stevotennis)
