@@ -25,6 +25,7 @@ Thanks!
 - [codecofee19](https://github.com/codecofee19)
 - [GRANTSWIM4](https://github.com/GRANTSWIM4)
 - [sidharthssingh](https://github.com/sidharthssingh)
+- [vaidic](https://github.com/vaidic)
 - [YoYoHoneySinghhh](https://github.com/YoYoHoneySinghhh)
 - [xRahul](https://github.com/xRahul)
 - [warrickhill](https://github.com/warrickhill)
