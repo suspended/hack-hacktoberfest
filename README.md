@@ -69,6 +69,7 @@ Thanks!
 - [rkruk](https://github.com/rkruk)
 - [lucasgruwez](https://github.com/lucasgruwez)
 - [Halfcreative](https://github.com/halfcreative)
+- [Randomqwerty](https://github.com/Randomqwerty)
 - [anshuldawar](https://github.com/anshuldawar)
 - [MaquicoONC](https://github.com/maquicoONC)
 - [Sudhanshu](https://github.com/sudhanshu16)
