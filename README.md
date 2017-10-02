@@ -18,6 +18,7 @@ Thanks!
 - [arguiot](https://github.com/arguiot)
 - [EstebanZapata](https://github.com/EstebanZapata)
 - [realslimshanky](https://github.com/realslimshanky)
+- [ad-dan](https://github.com/ad-dan)
 - [sidgupta234](https://github.com/sidgupta234)
 - [yrahul3910](https://github.com/yrahul3910)
 - [nistath](https://github.com/nistath)
