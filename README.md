@@ -37,6 +37,7 @@ Thanks!
 - [joycedfan](https://github.com/joycedfan)
 - [manuelmdn](https://github.com/manuelmdn)
 - [lilyholcombe](https://github.com/lilyholcombe)
+- [cl1ent](https://github.com/cl1ent)
 - [mayank26saxena](https://github.com/mayank26saxena)
 - [ByronGeorge](https://github.com/ByronGeorge)
 - [mateusduraes](https://github.com/mateusduraes)
