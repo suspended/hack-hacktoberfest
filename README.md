@@ -58,6 +58,7 @@ Thanks!
 - [vaibsharma](https://github.com/vaibsharma)
 - [stevotennis](https://github.com/stevotennis)
 - [sksameer](https://github.com/sksameer)
+- [Zynk](https://github.com/zynk)
 - [guptarohit](https://github.com/guptarohit)
 - [fifiteen82726](https://github.com/fifiteen82726)
 - [alexspyr](https://github.com/alexspyr)
