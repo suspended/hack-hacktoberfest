@@ -6,7 +6,7 @@ Please insert your username **randomly** in the list to avoid merge conflicts. D
 Thanks!
 
 - [gezafisch](https://github.com/gezafisch)
-- [ashutosh1206] (https://github.com/ashutosh1206)
+- [ashutosh1206](https://github.com/ashutosh1206)
 - [MAGICCC](https://github.com/MAGICCC)
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [obsidianspork](https://github.com/obsidianspork)
@@ -45,7 +45,8 @@ Thanks!
 - [sunpech](https://github.com/sunpech)
 - [cpcio](https://github.com/cpcio)
 - [rauenzi](https://github.com/rauenzi)
-- [anubhakushwaha](https://github.com/anubhakushwaha)
+- [anubhakushwaha](https://github.com/anubhakushwaha) 
+- [Web-Cam](https://github.com/Web-Cam)
 - [arpitgogia](https://github.com/arpitgogia)
 - [beadleha](https://github.com/beadleha)
 - [chaosdefinition](https://github.com/chaosdefinition)
