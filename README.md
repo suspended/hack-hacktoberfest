@@ -43,6 +43,7 @@ Thanks!
 - [rrichajalota](https://github.com/rrichajalota)
 - [utkarshvermaa](https://github.com/utkarshvermaa)
 - [xvlaze](https://github.com/xvlaze)
+- [viniciuslcpereira97](https://github.com/viniciuslcpereira97)
 - [MackyNous](https://github.com/mackynous)
 - [sunpech](https://github.com/sunpech)
 - [cpcio](https://github.com/cpcio)
