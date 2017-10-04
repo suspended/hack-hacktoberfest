@@ -1,7 +1,7 @@
 # hack-hacktoberfest
 ## Need pull requests? Start here! Read instructions first!
 
-Add your username here! 
+Add your username here!
 Please insert your username **randomly** in the list to avoid merge conflicts. Do not just put your name to the end of the list.
 Thanks!
 
@@ -47,7 +47,7 @@ Thanks!
 - [sunpech](https://github.com/sunpech)
 - [cpcio](https://github.com/cpcio)
 - [rauenzi](https://github.com/rauenzi)
-- [anubhakushwaha](https://github.com/anubhakushwaha) 
+- [anubhakushwaha](https://github.com/anubhakushwaha)
 - [Web-Cam](https://github.com/Web-Cam)
 - [arpitgogia](https://github.com/arpitgogia)
 - [beadleha](https://github.com/beadleha)
@@ -78,3 +78,4 @@ Thanks!
 - [Sudhanshu](https://github.com/sudhanshu16)
 - [shuvikash](https://github.com/shuvikash)
 - [Manasjain](https://github.com/Manasjain)
+- [x_Dwiky_x](https://github.com/dwikychandra21)
