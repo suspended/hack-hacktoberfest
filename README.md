@@ -8,7 +8,7 @@ Thanks!
 - [gezafisch](https://github.com/gezafisch)
 - [ashutosh1206](https://github.com/ashutosh1206)
 - [MAGICCC](https://github.com/MAGICCC)
-- [lewiswatson55] (https://github.com/lewiswatson55)
+- [lewiswatson55](https://github.com/lewiswatson55)
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
