@@ -20,6 +20,7 @@ Thanks!
 - [realslimshanky](https://github.com/realslimshanky)
 - [sidgupta234](https://github.com/sidgupta234)
 - [yrahul3910](https://github.com/yrahul3910)
+- [akutaktau](https://github.com/akutaktau)
 - [nistath](https://github.com/nistath)
 - [jatinrajani](https://github.com/jatinrajani)
 - [ArkTrevelyan](https://github.com/ArkTrevelyan)
