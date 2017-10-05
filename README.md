@@ -26,6 +26,7 @@ Thanks!
 - [jatinrajani](https://github.com/jatinrajani)
 - [eosti](https://github.com/eosti)
 - [ArkTrevelyan](https://github.com/ArkTrevelyan)
+- [Epenance](https://github.com/epenance)
 - [Link270](https://github.com/Link270)
 - [codecofee19](https://github.com/codecofee19)
 - [GRANTSWIM4](https://github.com/GRANTSWIM4)
