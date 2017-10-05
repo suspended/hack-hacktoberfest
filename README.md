@@ -72,6 +72,7 @@ Thanks!
 - [alexspyr](https://github.com/alexspyr)
 - [paulolimac](https://github.com/paulolimac)
 - [CodeWarri0r](https://github.com/CodeWarri0r)
+- [earlpast](https://github.com/earlpast)
 - [jb-1980](https://github.com/jb-1980)
 - [farazfaruqi](https://github.com/farazfaruqi)
 - [huyrua291996](https://github.com/huyrua291996)
