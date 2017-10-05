@@ -30,6 +30,7 @@ Thanks!
 - [ArkTrevelyan](https://github.com/ArkTrevelyan)
 - [Epenance](https://github.com/epenance)
 - [Link270](https://github.com/Link270)
+- [Rohzek](https://github.com/Rohzek)
 - [codecofee19](https://github.com/codecofee19)
 - [thvardhan](https://github.com/thvardhan)
 - [GRANTSWIM4](https://github.com/GRANTSWIM4)
