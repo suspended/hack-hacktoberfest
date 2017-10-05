@@ -24,6 +24,7 @@ Thanks!
 - [akutaktau](https://github.com/akutaktau)
 - [nistath](https://github.com/nistath)
 - [jatinrajani](https://github.com/jatinrajani)
+- [eosti](https://github.com/eosti)
 - [ArkTrevelyan](https://github.com/ArkTrevelyan)
 - [Link270](https://github.com/Link270)
 - [codecofee19](https://github.com/codecofee19)
