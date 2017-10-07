@@ -45,6 +45,7 @@ Thanks!
 - [joycedfan](https://github.com/joycedfan)
 - [manuelmdn](https://github.com/manuelmdn)
 - [igcigc](https://github.com/igcigc)
+- [nightrainlily](https://github.com/nightrainlily)
 - [lilyholcombe](https://github.com/lilyholcombe)
 - [mayank26saxena](https://github.com/mayank26saxena)
 - [ByronGeorge](https://github.com/ByronGeorge)
