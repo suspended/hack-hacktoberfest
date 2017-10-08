@@ -17,6 +17,7 @@ Thanks!
 - [vibhor98](https://github.com/vibhor98)
 - [shekhar-singh](https://github.com/shekhar-singh)
 - [AdriiiPRodri](https://github.com/AdriiiPRodri)
+- [Vaibhav_Agarwal](https://github.com/vaibhavagarwal220)
 - [leesmart92](https://github.com/leesmart92)
 - [arguiot](https://github.com/arguiot)
 - [EstebanZapata](https://github.com/EstebanZapata)
