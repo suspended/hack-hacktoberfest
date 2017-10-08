@@ -69,6 +69,7 @@ Thanks!
 - [t-shirt](https://github.com/t-shirt)
 - [stevotennis](https://github.com/stevotennis)
 - [sksameer](https://github.com/sksameer)
+- [samueltan3972](https://github.com/samueltan3972)
 - [Zynk](https://github.com/zynk)
 - [guptarohit](https://github.com/guptarohit)
 - [fifiteen82726](https://github.com/fifiteen82726)
