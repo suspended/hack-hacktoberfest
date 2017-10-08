@@ -21,6 +21,7 @@ Thanks!
 - [arguiot](https://github.com/arguiot)
 - [EstebanZapata](https://github.com/EstebanZapata)
 - [realslimshanky](https://github.com/realslimshanky)
+- [SubhrajitPrusty](https://github.com/SubhrajitPrusty)
 - [sidgupta234](https://github.com/sidgupta234)
 - [yrahul3910](https://github.com/yrahul3910)
 - [akutaktau](https://github.com/akutaktau)
