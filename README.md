@@ -10,6 +10,7 @@ Thanks!
 - [ashutosh1206](https://github.com/ashutosh1206)
 - [MAGICCC](https://github.com/MAGICCC)
 - [lewiswatson55](https://github.com/lewiswatson55)
+- [FranRoneroMal] (https://github.com/FranRomeroMal)
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
