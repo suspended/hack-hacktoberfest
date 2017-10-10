@@ -22,6 +22,7 @@ Thanks!
 - [EstebanZapata](https://github.com/EstebanZapata)
 - [realslimshanky](https://github.com/realslimshanky)
 - [sidgupta234](https://github.com/sidgupta234)
+- [price84](https://github.com/price84)
 - [yrahul3910](https://github.com/yrahul3910)
 - [akutaktau](https://github.com/akutaktau)
 - [nistath](https://github.com/nistath)
