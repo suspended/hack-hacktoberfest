@@ -48,6 +48,7 @@ Thanks!
 - [lilyholcombe](https://github.com/lilyholcombe)
 - [mayank26saxena](https://github.com/mayank26saxena)
 - [ByronGeorge](https://github.com/ByronGeorge)
+- [carterschieffer](https://github.com/carterschieffer)
 - [mateusduraes](https://github.com/mateusduraes)
 - [rrichajalota](https://github.com/rrichajalota)
 - [utkarshvermaa](https://github.com/utkarshvermaa)
