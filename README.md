@@ -13,6 +13,7 @@ Thanks!
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
+- [Mack-akp](https://github.com/Mack-akp)
 - [kosmastsk](https://github.com/kosmastsk)
 - [vibhor98](https://github.com/vibhor98)
 - [shekhar-singh](https://github.com/shekhar-singh)
