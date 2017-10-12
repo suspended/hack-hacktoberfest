@@ -8,6 +8,7 @@ Thanks!
 - [gezafisch](https://github.com/gezafisch)
 - [bsidio](https://github.com/bsidio)
 - [ashutosh1206](https://github.com/ashutosh1206)
+- [arpanjain97](https://github.com/arpanjain97)
 - [MAGICCC](https://github.com/MAGICCC)
 - [lewiswatson55](https://github.com/lewiswatson55)
 - [TuhinKundu](https://github.com/TuhinKundu)
