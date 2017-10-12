@@ -71,6 +71,7 @@ Thanks!
 - [sksameer](https://github.com/sksameer)
 - [Zynk](https://github.com/zynk)
 - [guptarohit](https://github.com/guptarohit)
+- [neo700](https://github.com/neo700)
 - [fifiteen82726](https://github.com/fifiteen82726)
 - [alexspyr](https://github.com/alexspyr)
 - [paulolimac](https://github.com/paulolimac)
