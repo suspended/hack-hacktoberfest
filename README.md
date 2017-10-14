@@ -86,9 +86,11 @@ Thanks!
 - [lucasgruwez](https://github.com/lucasgruwez)
 - [Halfcreative](https://github.com/halfcreative)
 - [Randomqwerty](https://github.com/Randomqwerty)
+- [Sarthak Bhagat](https://github.com/sarthak268)
 - [anshuldawar](https://github.com/anshuldawar)
 - [MaquicoONC](https://github.com/maquicoONC)
 - [Sudhanshu](https://github.com/sudhanshu16)
 - [shuvikash](https://github.com/shuvikash)
 - [Manasjain](https://github.com/Manasjain)
 - [x_Dwiky_x](https://github.com/dwikychandra21)
+
