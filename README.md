@@ -79,6 +79,7 @@ Thanks!
 - [CodeWarri0r](https://github.com/CodeWarri0r)
 - [earlpast](https://github.com/earlpast)
 - [jb-1980](https://github.com/jb-1980)
+- [neil-hickey](https://github.com/neil-hickey)
 - [farazfaruqi](https://github.com/farazfaruqi)
 - [huyrua291996](https://github.com/huyrua291996)
 - [vs4vijay](https://github.com/vs4vijay)
