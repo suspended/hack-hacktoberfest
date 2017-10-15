@@ -5,6 +5,7 @@ Add your username here!
 Please insert your username **randomly** in the list to avoid merge conflicts. __Do not__ just put your name to the end of the list.
 Thanks!
 
+- [suspended](https://github.com/suspended)
 - [gezafisch](https://github.com/gezafisch)
 - [bsidio](https://github.com/bsidio)
 - [ashutosh1206](https://github.com/ashutosh1206)
