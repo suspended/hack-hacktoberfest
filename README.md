@@ -33,6 +33,7 @@ Thanks!
 - [Link270](https://github.com/Link270)
 - [codecofee19](https://github.com/codecofee19)
 - [thvardhan](https://github.com/thvardhan)
+- [Natsu6767](https://github.com/Natsu6767)
 - [GRANTSWIM4](https://github.com/GRANTSWIM4)
 - [sidharthssingh](https://github.com/sidharthssingh)
 - [rwhitworth](https://github.com/rwhitworth)
