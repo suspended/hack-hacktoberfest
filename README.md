@@ -20,6 +20,7 @@ Thanks!
 - [AdriiiPRodri](https://github.com/AdriiiPRodri)
 - [leesmart92](https://github.com/leesmart92)
 - [arguiot](https://github.com/arguiot)
+- [aayusharma](https://github.com/aayusharma)
 - [EstebanZapata](https://github.com/EstebanZapata)
 - [realslimshanky](https://github.com/realslimshanky)
 - [sidgupta234](https://github.com/sidgupta234)
