@@ -1,8 +1,8 @@
 # hack-hacktoberfest
-## Need pull requests? Start here! Read instructions first!
+## Need pull requests? Start here! Read instructions first
 
 Add your username here!
-Please insert your username **randomly** in the list to avoid merge conflicts. Do not just put your name to the end of the list.
+Please insert your username **randomly** in the list to avoid merge conflicts. __Do not__ just put your name to the end of the list.
 Thanks!
 
 - [gezafisch](https://github.com/gezafisch)
