@@ -109,3 +109,4 @@ Thanks!
 - [Manasjain](https://github.com/Manasjain)
 - [x_Dwiky_x](https://github.com/dwikychandra21)
 - [arkwrn](https://github.com/arkwrn)
+- [alexspyr](https://github.com/alexspyr)
