@@ -20,6 +20,7 @@ Thanks!
 - [kosmastsk](https://github.com/kosmastsk)
 - [vibhor98](https://github.com/vibhor98)
 - [shekhar-singh](https://github.com/shekhar-singh)
+- [Kenny_Lam](https://github.com/kennyhk418)
 - [AdriiiPRodri](https://github.com/AdriiiPRodri)
 - [leesmart92](https://github.com/leesmart92)
 - [arguiot](https://github.com/arguiot)
