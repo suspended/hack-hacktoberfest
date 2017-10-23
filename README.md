@@ -22,6 +22,7 @@ Thanks!
 - [shekhar-singh](https://github.com/shekhar-singh)
 - [Kenny_Lam](https://github.com/kennyhk418)
 - [AdriiiPRodri](https://github.com/AdriiiPRodri)
+- [Vaibhav_Agarwal](https://github.com/vaibhavagarwal220)
 - [leesmart92](https://github.com/leesmart92)
 - [arguiot](https://github.com/arguiot)
 - [aayusharma](https://github.com/aayusharma)
