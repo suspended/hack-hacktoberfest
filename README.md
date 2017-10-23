@@ -56,6 +56,7 @@ Thanks!
 - [twkitz](https://github.com/twkitz)
 - [darkwizz](https://github.com/darkwizz)
 - [joycedfan](https://github.com/joycedfan)
+- [umaams](https://github.com/umaams)
 - [manuelmdn](https://github.com/manuelmdn)
 - [igcigc](https://github.com/igcigc)
 - [nightrainlily](https://github.com/nightrainlily)
