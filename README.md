@@ -99,7 +99,7 @@ Thanks!
 - [alexspyr](https://github.com/alexspyr)
 - [FranklinWaller](https://github.com/FranklinWaller)
 - [paulolimac](https://github.com/paulolimac)
-- [CodeWarri0r](https://github.com/CodeWarri0r)
+- [CodeWarri0r 2017](https://github.com/CodeWarri0r)
 - [earlpast](https://github.com/earlpast)
 - [jb-1980](https://github.com/jb-1980)
 - [neil-hickey](https://github.com/neil-hickey)
