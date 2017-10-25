@@ -48,6 +48,7 @@ Thanks!
 - [thvardhan](https://github.com/thvardhan)
 - [Natsu6767](https://github.com/Natsu6767)
 - [GRANTSWIM4](https://github.com/GRANTSWIM4)
+- [jbaiona](https://github.com/jbaiona)
 - [maximechareyron](https://github.com/maxime.chareyron)
 - [sidharthssingh](https://github.com/sidharthssingh)
 - [jmaicaaan](https://github.com/jmaicaaan)
