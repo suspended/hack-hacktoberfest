@@ -56,6 +56,7 @@ Thanks!
 - [vaidic](https://github.com/vaidic)
 - [YoYoHoneySinghhh](https://github.com/YoYoHoneySinghhh)
 - [xRahul](https://github.com/xRahul)
+- [vince](https://github.com/vincelwt)
 - [warrickhill](https://github.com/warrickhill)
 - [SilentFlame](https://github.com/SilentFlame)
 - [justineldracher](https://github.com/justineldracher)
