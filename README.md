@@ -12,7 +12,7 @@ Thanks!
 - [arpanjain97](https://github.com/arpanjain97)
 - [MAGICCC](https://github.com/MAGICCC)
 - [lewiswatson55](https://github.com/lewiswatson55)
-- [FranRoneroMal] (https://github.com/FranRomeroMal)
+- [FranRoneroMal](https://github.com/FranRomeroMal)
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
@@ -25,10 +25,7 @@ Thanks!
 - [Vaibhav_Agarwal](https://github.com/vaibhavagarwal220)
 - [leesmart92](https://github.com/leesmart92)
 - [arguiot](https://github.com/arguiot)
-<<<<<<< HEAD
 - [jyotsana19](https://github.com/jyotsana19)
-=======
->>>>>>> 1a2f3809ed9980b62e1339f665f06b9527b1512b
 - [aayusharma](https://github.com/aayusharma)
 - [EstebanZapata](https://github.com/EstebanZapata)
 - [realslimshanky](https://github.com/realslimshanky)
@@ -77,6 +74,7 @@ Thanks!
 - [NoobTW](https://github.com/noobtw)
 - [ujjwalagrawal](https://github.com/ujjwalagrawal17)
 - [xvlaze](https://github.com/xvlaze)
+- [eduardobachiega](https://github.com/eduardobachiega)
 - [viniciuslcpereira97](https://github.com/viniciuslcpereira97)
 - [MackyNous](https://github.com/mackynous)
 - [sunpech](https://github.com/sunpech)
