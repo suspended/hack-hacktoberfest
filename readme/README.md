@@ -4,7 +4,7 @@
 Add your username here!
 Please insert your username **randomly** in the list to avoid merge conflicts. __Do not__ just put your name to the end of the list.
 Thanks!
-
+- [death-lord](https://github.com/Death-Lord)
 - [suspended](https://github.com/suspended)
 - [gezafisch](https://github.com/gezafisch)
 - [bsidio](https://github.com/bsidio)
@@ -14,12 +14,10 @@ Thanks!
 - [lewiswatson55](https://github.com/lewiswatson55)
 - [FranRoneroMal](https://github.com/FranRomeroMal)
 - [TuhinKundu](https://github.com/TuhinKundu)
-- [zburchett](https://github.com/zburchett)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
 - [Mack-akp](https://github.com/Mack-akp)
 - [kosmastsk](https://github.com/kosmastsk)
-- [Draylar](https://github.com/Draylar)
 - [vibhor98](https://github.com/vibhor98)
 - [shekhar-singh](https://github.com/shekhar-singh)
 - [Kenny_Lam](https://github.com/kennyhk418)
@@ -27,8 +25,6 @@ Thanks!
 - [Vaibhav_Agarwal](https://github.com/vaibhavagarwal220)
 - [leesmart92](https://github.com/leesmart92)
 - [arguiot](https://github.com/arguiot)
-- [Berk Erol](https://github.com/berkerol)
-- [markisdev](https://github.com/markisdev)
 - [jyotsana19](https://github.com/jyotsana19)
 - [aayusharma](https://github.com/aayusharma)
 - [EstebanZapata](https://github.com/EstebanZapata)
@@ -130,4 +126,3 @@ Thanks!
 - [arkwrn](https://github.com/arkwrn)
 - [alexspyr](https://github.com/alexspyr)
 - [LoneWolf38](https://github.com/lonewolf38)
-- [skull29](https://github.com/skull29)
