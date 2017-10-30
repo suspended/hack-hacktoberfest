@@ -96,6 +96,7 @@ Thanks!
 - [shantanukamath](https://github.com/shantanukamath)
 - [takidelfin](https://github.com/takidelfin)
 - [vaibsharma](https://github.com/vaibsharma)
+- [sanushen](https://github.com/sanushen)
 - [t-shirt](https://github.com/t-shirt)
 - [stevotennis](https://github.com/stevotennis)
 - [sksameer](https://github.com/sksameer)
