@@ -14,6 +14,7 @@ Thanks!
 - [lewiswatson55](https://github.com/lewiswatson55)
 - [FranRoneroMal](https://github.com/FranRomeroMal)
 - [TuhinKundu](https://github.com/TuhinKundu)
+- [Jsmatty](https://github.com/jsmatty)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
 - [Mack-akp](https://github.com/Mack-akp)
