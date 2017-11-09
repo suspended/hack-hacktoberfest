@@ -110,6 +110,7 @@ Thanks!
 - [neo700](https://github.com/neo700)
 - [fifiteen82726](https://github.com/fifiteen82726)
 - [alexspyr](https://github.com/alexspyr)
+- [sanushen](https://github.com/sanushen)
 - [FranklinWaller](https://github.com/FranklinWaller)
 - [paulolimac](https://github.com/paulolimac)
 - [CodeWarri0r 2017](https://github.com/CodeWarri0r)
