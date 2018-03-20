@@ -10,6 +10,7 @@ Thanks!
 - [bsidio](https://github.com/bsidio)
 - [ashutosh1206](https://github.com/ashutosh1206)
 - [arpanjain97](https://github.com/arpanjain97)
+- [qservando](https://github.com/qservando)
 - [MAGICCC](https://github.com/MAGICCC)
 - [lewiswatson55](https://github.com/lewiswatson55)
 - [FranRoneroMal](https://github.com/FranRomeroMal)
