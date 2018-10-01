@@ -82,6 +82,7 @@ Thanks!
 - [sunpech](https://github.com/sunpech)
 - [cpcio](https://github.com/cpcio)
 - [zotamias](https://github.com/zotamias)
+- [janicek1m](https://github.com/janicek1m)
 - [rauenzi](https://github.com/rauenzi)
 - [anubhakushwaha](https://github.com/anubhakushwaha)
 - [Web-Cam](https://github.com/Web-Cam)
