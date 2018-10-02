@@ -1,8 +1,9 @@
 # hack-hacktoberfest
+
 ## Need pull requests? Start here! Read instructions first!
 
 Add your username here!
-Please insert your username **randomly** in the list to avoid merge conflicts. __Do not__ just put your name to the end of the list.
+Please insert your username **randomly** in the list to avoid merge conflicts. **Do not** just put your name to the end of the list.
 Thanks!
 
 - [suspended](https://github.com/suspended)
@@ -14,6 +15,7 @@ Thanks!
 - [MAGICCC](https://github.com/MAGICCC)
 - [lewiswatson55](https://github.com/lewiswatson55)
 - [FranRoneroMal](https://github.com/FranRomeroMal)
+- [bidhan-a](https://github.com/bidhan-a)
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [zburchett](https://github.com/zburchett)
 - [obsidianspork](https://github.com/obsidianspork)
