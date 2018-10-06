@@ -137,4 +137,5 @@ Thanks!
 - [arkwrn](https://github.com/arkwrn)
 - [alexspyr](https://github.com/alexspyr)
 - [LoneWolf38](https://github.com/lonewolf38)
+- [victorhcunha](https://github.com/victorhcunha)
 - [skull29](https://github.com/skull29)
