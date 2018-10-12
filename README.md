@@ -6,6 +6,7 @@ Please insert your username **randomly** in the list to avoid merge conflicts. _
 Thanks!
 
 - [suspended](https://github.com/suspended)
+- [Byamugisha Davis](https://github.com/Davisdoctor)
 - [gezafisch](https://github.com/gezafisch)
 - [bsidio](https://github.com/bsidio)
 - [ashutosh1206](https://github.com/ashutosh1206)
