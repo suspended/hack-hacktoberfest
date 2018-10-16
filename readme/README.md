@@ -127,3 +127,4 @@ Thanks!
 - [arkwrn](https://github.com/arkwrn)
 - [alexspyr](https://github.com/alexspyr)
 - [LoneWolf38](https://github.com/lonewolf38)
+- [KononenkoHub](https://github.com/KononenkoHub)
