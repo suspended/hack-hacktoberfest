@@ -18,6 +18,7 @@ Thanks!
 - [zburchett](https://github.com/zburchett)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
+- [stephorpilla](https://github.com/stephorpilla)
 - [Somya](https://github.com/somyasj123)
 - [Mack-akp](https://github.com/Mack-akp)
 - [kosmastsk](https://github.com/kosmastsk)
