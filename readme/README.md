@@ -4,6 +4,7 @@
 Add your username here!
 Please insert your username **randomly** in the list to avoid merge conflicts. __Do not__ just put your name to the end of the list.
 Thanks!
+- [AdriiiPRodri](https://github.com/adriiiprodri)
 - [death-lord](https://github.com/Death-Lord)
 - [suspended](https://github.com/suspended)
 - [gezafisch](https://github.com/gezafisch)
