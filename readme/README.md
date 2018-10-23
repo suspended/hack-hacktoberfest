@@ -8,6 +8,7 @@ Thanks!
 - [suspended](https://github.com/suspended)
 - [gezafisch](https://github.com/gezafisch)
 - [bsidio](https://github.com/bsidio)
+- [marcelofigueira](https://github.com/marcelofigueira)
 - [ashutosh1206](https://github.com/ashutosh1206)
 - [arpanjain97](https://github.com/arpanjain97)
 - [MAGICCC](https://github.com/MAGICCC)
