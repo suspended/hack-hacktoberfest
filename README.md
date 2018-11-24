@@ -19,6 +19,7 @@ Thanks!
 - [zburchett](https://github.com/zburchett)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
+  [PatrickSedlacek](https://github.com/PatrickSedlacek
 - [Somya](https://github.com/somyasj123)
 - [Mack-akp](https://github.com/Mack-akp)
 - [kosmastsk](https://github.com/kosmastsk)
