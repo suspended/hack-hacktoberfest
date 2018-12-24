@@ -37,6 +37,7 @@ Thanks!
 - [akutaktau](https://github.com/akutaktau)
 - [nistath](https://github.com/nistath)
 - [giraldez122](https://github.com/giraldez122)
+- [Manas-kashyap](https://github.com/Manas-kashyap)
 - [jatinrajani](https://github.com/jatinrajani)
 - [eosti](https://github.com/eosti)
 - [ArkTrevelyan](https://github.com/ArkTrevelyan)
