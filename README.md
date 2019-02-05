@@ -117,6 +117,7 @@ Thanks!
 - [FranklinWaller](https://github.com/FranklinWaller)
 - [paulolimac](https://github.com/paulolimac)
 - [CodeWarri0r 2017](https://github.com/CodeWarri0r)
+- [whysogreen](https://github.com/whysogreen)
 - [earlpast](https://github.com/earlpast)
 - [jb-1980](https://github.com/jb-1980)
 - [neil-hickey](https://github.com/neil-hickey)
