@@ -142,3 +142,4 @@ Thanks!
 - [alexspyr](https://github.com/alexspyr)
 - [LoneWolf38](https://github.com/lonewolf38)
 - [skull29](https://github.com/skull29)
+- [coolnishant](https://github.com/coolnishant)
