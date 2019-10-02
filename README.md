@@ -23,6 +23,7 @@ Thanks!
 - [ehx](https://github.com/ehx)
 - [PatrickSedlacek](https://github.com/PatrickSedlacek)
 - [Somya](https://github.com/somyasj123)
+- [Arnav](https://github.com/Arnav0400)
 - [Mack-akp](https://github.com/Mack-akp)
 - [kosmastsk](https://github.com/kosmastsk)
 - [Draylar](https://github.com/Draylar)
