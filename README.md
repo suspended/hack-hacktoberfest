@@ -13,6 +13,7 @@ Thanks!
 - [bsidio](https://github.com/bsidio)
 - [ashutosh1206](https://github.com/ashutosh1206)
 - [arpanjain97](https://github.com/arpanjain97)
+- [brunnnka](https://github.com/brunnnka)
 - [qservando](https://github.com/qservando)
 - [janicek1m](https://github.com/janicek1m)
 - [MAGICCC](https://github.com/MAGICCC)
