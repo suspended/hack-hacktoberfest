@@ -23,6 +23,7 @@ Thanks!
 - [zburchett](https://github.com/zburchett)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
+- [CelineLind](https://github.com/CelineLind)
 - [PatrickSedlacek](https://github.com/PatrickSedlacek)
 - [Somya](https://github.com/somyasj123)
 - [Arnav](https://github.com/Arnav0400)
