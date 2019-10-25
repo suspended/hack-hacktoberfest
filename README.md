@@ -9,6 +9,7 @@ Thanks!
 - [EnterNewName](https://github.com/EnterNewName)
 - [suspended](https://github.com/suspended)
 - [silvercondor](https://github.com/silvercondor)
+- [thelazyliz](https://github.com/thelazyliz)
 - [gezafisch](https://github.com/gezafisch)
 - [bsidio](https://github.com/bsidio)
 - [ashutosh1206](https://github.com/ashutosh1206)
