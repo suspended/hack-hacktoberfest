@@ -153,8 +153,9 @@ Thanks!
 - [LoneWolf38](https://github.com/lonewolf38)
 - [skull29](https://github.com/skull29)
 - [coolnishant](https://github.com/coolnishant)
-- [jahnvigupta](https://github.com/jahnvigupta)-
+- [jahnvigupta](https://github.com/jahnvigupta)
 - [Rutujavd](https://github.com/Rutujavd)
-
 - [shubhamvrm](https://github.com/shubhamvrm)
+- [Kautuk13](https://github.com/Kautuk13)
 - [armansingh7982](https://github.com/armansingh7982)
+
