@@ -9,6 +9,7 @@ Thanks!
 - [EnterNewName](https://github.com/EnterNewName)
 - [suspended](https://github.com/suspended)
 - [silvercondor](https://github.com/silvercondor)
+- [thelazyliz](https://github.com/thelazyliz)
 - [gezafisch](https://github.com/gezafisch)
 - [bsidio](https://github.com/bsidio)
 - [ashutosh1206](https://github.com/ashutosh1206)
@@ -23,6 +24,7 @@ Thanks!
 - [zburchett](https://github.com/zburchett)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
+- [CelineLind](https://github.com/CelineLind)
 - [PatrickSedlacek](https://github.com/PatrickSedlacek)
 - [Somya](https://github.com/somyasj123)
 - [Arnav](https://github.com/Arnav0400)
@@ -151,9 +153,9 @@ Thanks!
 - [LoneWolf38](https://github.com/lonewolf38)
 - [skull29](https://github.com/skull29)
 - [coolnishant](https://github.com/coolnishant)
-- [jahnvigupta](https://github.com/jahnvigupta)-
+- [jahnvigupta](https://github.com/jahnvigupta)
 - [Rutujavd](https://github.com/Rutujavd)
-
 - [shubhamvrm](https://github.com/shubhamvrm)
-
 - [Kautuk13](https://github.com/Kautuk13)
+- [armansingh7982](https://github.com/armansingh7982)
+
