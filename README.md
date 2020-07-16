@@ -138,6 +138,7 @@ Thanks!
 - [christinepham](https://github.com/christinepham)
 - [Anishka0107](https://github.com/Anishka0107)
 - [rkruk](https://github.com/rkruk)
+- [IvanovCosmin](https://github.com/IvanovCosmin)
 - [lucasgruwez](https://github.com/lucasgruwez)
 - [Halfcreative](https://github.com/halfcreative)
 - [Randomqwerty](https://github.com/Randomqwerty)
