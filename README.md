@@ -6,7 +6,6 @@ Add your username here!
 Please insert your username **randomly** in the list to avoid merge conflicts. **Do not** just put your name to the end of the list.
 Thanks!
 
-- [EnterNewName](https://github.com/EnterNewName)
 - [suspended](https://github.com/suspended)
 - [silvercondor](https://github.com/silvercondor)
 - [thelazyliz](https://github.com/thelazyliz)
