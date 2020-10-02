@@ -133,6 +133,7 @@ Thanks!
 - [neil-hickey](https://github.com/neil-hickey)
 - [devan-MEC](https://github.com/devan-MEC)
 - [farazfaruqi](https://github.com/farazfaruqi)
+- [dominikwalk](https://github.com/dominikwalk)
 - [huyrua291996](https://github.com/huyrua291996)
 - [vs4vijay](https://github.com/vs4vijay)
 - [christinepham](https://github.com/christinepham)
