@@ -18,6 +18,7 @@ Thanks!
 - [janicek1m](https://github.com/janicek1m)
 - [MAGICCC](https://github.com/MAGICCC)
 - [lewiswatson55](https://github.com/lewiswatson55)
+- [zgunz42](https://github.com/zgunz42)
 - [FranRoneroMal](https://github.com/FranRomeroMal)
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [zburchett](https://github.com/zburchett)
