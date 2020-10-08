@@ -42,6 +42,7 @@ Thanks!
 - [whysogreen](https://github.com/whysogreen)
 - [arguiot](https://github.com/arguiot)
 - [Douglas Hozea](https://github.com/kabrick)
+- [Kevin Ingles](https://github.com/kevin-ingles)
 - [Berk Erol](https://github.com/berkerol)
 - [markisdev](https://github.com/markisdev)
 - [ceefbox](https://github.com/ceefbox)
