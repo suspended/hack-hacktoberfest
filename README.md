@@ -12,6 +12,7 @@ Thanks!
 - [gezafisch](https://github.com/gezafisch)
 - [bsidio](https://github.com/bsidio)
 - [ashutosh1206](https://github.com/ashutosh1206)
+- [czetsuya](https://github.com/czetsuya)
 - [arpanjain97](https://github.com/arpanjain97)
 - [brunnnka](https://github.com/brunnnka)
 - [qservando](https://github.com/qservando)
