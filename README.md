@@ -23,6 +23,7 @@ Thanks!
 - [FranRoneroMal](https://github.com/FranRomeroMal)
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [zburchett](https://github.com/zburchett)
+- [anvitareddy6](https://github.com/anvitareddy6)
 - [obsidianspork](https://github.com/obsidianspork)
 - [ehx](https://github.com/ehx)
 - [CelineLind](https://github.com/CelineLind)
