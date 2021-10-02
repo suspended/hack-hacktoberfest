@@ -53,6 +53,7 @@ Thanks!
 - [aayusharma](https://github.com/aayusharma)
 - [EstebanZapata](https://github.com/EstebanZapata)
 - [realslimshanky](https://github.com/realslimshanky)
+- [jash-desai](https://github.com/jash-desai)
 - [ad-dan](https://github.com/ad-dan)
 - [sidgupta234](https://github.com/sidgupta234)
 - [itsNikhil](https://github.com/itsnikhil)
