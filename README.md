@@ -8,7 +8,7 @@ Thanks!
 
 - [suspended](https://github.com/suspended)
 - [eesshhiikkaa](https://github.com/Eesshhiikkaa)
-- [silvercondor](https://github.com/silvercondor)
+- [silvercondor](https://github.com/silvercondor/)
 - [thelazyliz](https://github.com/thelazyliz)
 - [aliraza777](https://github.com/Aliraza777)
 - [gezafisch](https://github.com/gezafisch)
