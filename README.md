@@ -12,6 +12,7 @@ Thanks!
 - [thelazyliz](https://github.com/thelazyliz)
 - [aliraza777](https://github.com/Aliraza777)
 - [gezafisch](https://github.com/gezafisch)
+- [Sahil Kumar](https://github.com/secret-sahil)
 - [bsidio](https://github.com/bsidio)
 - [ashutosh1206](https://github.com/ashutosh1206)
 - [czetsuya](https://github.com/czetsuya)
