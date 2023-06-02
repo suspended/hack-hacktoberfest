@@ -90,6 +90,7 @@ Thanks!
 - [falconmfm](https://github.com/falconmfm)
 - [joycedfan](https://github.com/joycedfan)
 - [umaams](https://github.com/umaams)
+- [Tx-3011](https://github.com/Tx-3011)
 - [manuelmdn](https://github.com/manuelmdn)
 - [igcigc](https://github.com/igcigc)
 - [nightrainlily](https://github.com/nightrainlily)
