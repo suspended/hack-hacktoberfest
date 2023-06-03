@@ -14,6 +14,7 @@ Thanks!
 - [gezafisch](https://github.com/gezafisch)
 - [Sahil Kumar](https://github.com/secret-sahil)
 - [bsidio](https://github.com/bsidio)
+- [jheremois](https://github.com/jheremois)
 - [ashutosh1206](https://github.com/ashutosh1206)
 - [czetsuya](https://github.com/czetsuya)
 - [arpanjain97](https://github.com/arpanjain97)
