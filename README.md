@@ -7,6 +7,7 @@ Please insert your username **randomly** in the list to avoid merge conflicts. *
 Thanks!
 
 - [suspended](https://github.com/suspended)
+- [zainbinshakoor](https://github.com/zainbinshakoor)
 - [eesshhiikkaa](https://github.com/Eesshhiikkaa)
 - [silvercondor](https://github.com/silvercondor/)
 - [thelazyliz](https://github.com/thelazyliz)
