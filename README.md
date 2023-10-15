@@ -104,6 +104,7 @@ Thanks!
 - [whysogreen](https://github.com/whysogreen)
 - [NoobTW](https://github.com/noobtw)
 - [ujjwalagrawal](https://github.com/ujjwalagrawal17)
+- [Tx-3011](https://github.com/Tx-3011)
 - [xvlaze](https://github.com/xvlaze)
 - [eduardobachiega](https://github.com/eduardobachiega)
 - [viniciuslcpereira97](https://github.com/viniciuslcpereira97)
